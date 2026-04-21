@@ -1,10 +1,14 @@
 {
     "maquina": "JD-7000",
-    "status": "CR\u00cdTICO",
-    "correcoes": [
-        "Reduzir velocidade para 5km/h",
-        "Diminuir rota\u00e7\u00e3o do extrator",
-        "Ajustar facas do corte de base (Baixar)"
-    ],
-    "perda_percentual": 40.0
+    "timestamp": "2026-04-21T17:58:24.846807",
+    "status": "CRÍTICO",
+    "perda_percentual": 20.0,
+    "parametros": {
+        "velocidade": 5.0,
+        "rotacao": 700.0,
+        "altura_corte": 3.0,
+        "ton_esperada": 10000.0,
+        "ton_realizada": 8000.0
+    },
+    "ajustes_necessarios": []
 }
